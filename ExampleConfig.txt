@@ -1,0 +1,26 @@
+{
+  "configs": [
+    {
+      "Interactive": [
+        "Thing",
+        65
+      ],
+      "Commandline": [
+        "Test",
+        4,
+		45.0
+      ]
+    },
+	    {
+      "Interactive": [
+        "Thing2",
+        65
+      ],
+      "Commandline": [
+        "Test2",
+        4,
+		45.0
+      ]
+    }
+  ]
+}
